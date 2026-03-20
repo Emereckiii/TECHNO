@@ -1,2 +1,0 @@
-# TECHNO
-High-fidelity prototype
